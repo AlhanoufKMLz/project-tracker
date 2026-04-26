@@ -9,6 +9,6 @@ public class Project {
     private String id;
     private String title;
     private String description;
-    private String isDone;
+    private boolean isDone;
     private String companyName;
 }
